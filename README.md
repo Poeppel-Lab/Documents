@@ -2,6 +2,8 @@
 >where documents stays
 
 ### Git_Tu
+[PDF](Git_Tu.pdf)
+
 Arthor: HaoZ
 
 Date: Friday, October 4, 2019
